@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student with a passion for tech.<br>🛡️ Member of Guardian, a cybersecurity-focused college entity.<br>🎮 Part of Nawat, a game development group.<br>💻 Proficient in C, C#, Python, HTML5, and CSS (but haven't used them on GitHub yet 😅).<br>🔨 Currently working on multiple projects, mainly in Java.<br>🎯 Planning to create my own game in the near future.<br>🌱 Always learning more about programming, full-stack development, and cybersecurity.<br>----------------------------------------------------------------------------------------------------------<br>Let’s build something amazing together!
+🎓 Computer Engineering student with a passion for tech.<br>🛡️ Member of Guardian, a cybersecurity-focused college entity.<br>🎮 Part of Nawat, a game development group.<br>💻 Proficient in java, C, C#, Python, HTML5, and CSS (but haven't used them on GitHub yet 😅).<br>🔨 Currently working on multiple projects, mainly in Java.<br>🎯 Planning to create my own game in the near future.<br>🌱 Always learning more about programming, full-stack development, and cybersecurity.<br>----------------------------------------------------------------------------------------------------------<br>Let’s build something amazing together!
 
 
 ## 🌐 Socials:
