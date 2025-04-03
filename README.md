@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student with a passion for programming.<br>🎮 Part of Nawat, a game development group.<br>💻 Proficient in java, C, C#, javascript, Python, REACT and Pandas.<br>🔨 Currently working on a few C# and REACT projects.<br>🌱 Always learning more about data, game dev and full-stack development.<br>----------------------------------------------------------------------------------------------------------<br>Let’s build something amazing together!
+🎓 Computer Engineering student with a passion for programming.<br>🎮 Part of Nawat, a game development group.<br>💻 Proficient in java, C, C#, javascript, SQl, Python, REACT and Pandas.<br>🔨 Currently working on a few C# and REACT projects.<br>🌱 Always learning more about data, game dev and full-stack development.<br>----------------------------------------------------------------------------------------------------------<br>Let’s build something amazing together!
 
 
 ## 🌐 Socials:
